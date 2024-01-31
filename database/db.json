@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "email": "mm2487653@gmail.com",
+      "password": "123456",
+      "name": {
+        "firstname": "muhammed",
+        "lastname": "albahle"
+      },
+      "id": 57
+    },
+    {
+      "email": "muhammedalbahle@gmail.com",
+      "password": "123456",
+      "name": {
+        "firstname": "muhamed",
+        "lastname": "albahla"
+      },
+      "id": 58
+    },
+    {
+      "email": "mm244487653@gmail.com",
+      "password": "1234",
+      "name": {
+        "firstname": "muhammed",
+        "lastname": "albahle"
+      },
+      "id": 59
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 3,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 4,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    }
+  ]
+}

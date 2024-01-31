@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.dashboare{
+    display: flex!important;
+    
+}
+
+
+.SideBar{
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    min-height:100vh ;
+    background-color: #f3f1f1;
+    
+    padding:0.5rem ;
+  border-left: 1px solid #f3f1f1 ;
+}
+.SideBar .active{
+    background-color: #ffffff;
+
+}
+.SideBar a {
+    padding: 1rem;
+    width: 100%;
+    text-decoration: none;
+    color: black;
+
+}
+.TopBar{
+    padding:25px;
+    box-shadow:0px 0px 8px 0 rgb(149 137 137 / 20%);;
+    a{
+
+        text-decoration: none;
+        color: black;
+    }
+}

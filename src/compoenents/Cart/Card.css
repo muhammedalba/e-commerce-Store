@@ -1,0 +1,47 @@
+
+.card img {
+width: 100%;
+height: 250px;
+}
+.card{
+
+height: 300px;
+}
+.card .card-title {
+    /* height: 35px; */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.card .card-text {
+
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
+height: 100px;
+}
+.card  .card-body .price{
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    padding: 10px 0;
+    text-align: center;
+}
+.card .butons {
+    display: flex;
+    /* text-align: center; */
+    align-items: center;
+    justify-content: center;
+
+}
+.card .butons button {
+    width: 25px;
+    height: 25px;
+    padding: 0;
+
+}
+.card .butons p {
+    
+
+    padding:  5px;
+    height: 20px;
+}
